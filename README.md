@@ -1,10 +1,3 @@
-# Personal-Finance-Tracker
-Since you are seeing **`http://127.0.0.1:5000/`**, your Flask server is running locally on your computer!
-
-Because I cannot "see" your specific code, I have designed this README to cover the standard features of a Flask Finance Tracker. You can copy-paste this into a file named `README.md` in your project folder.
-
----
-
 # 💹 Personal Finance Tracker
 
 A full-stack web application designed to help users log, manage, and analyze their daily financial transactions. Built with a focus on simplicity and data persistence.
